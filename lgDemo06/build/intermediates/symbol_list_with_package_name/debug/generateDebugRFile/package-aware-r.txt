@@ -1,0 +1,23 @@
+com.lggyx.lgdemo06
+color black
+color colorAccent
+color colorPrimary
+color colorPrimaryDark
+color white
+drawable icon_notifications2
+drawable icon_setting2
+drawable icon_sign2
+id listView
+id menuitm_notifications
+id menuitm_search
+id menuitm_setting
+id menuitm_sign
+id toolbar
+layout activity_main
+menu menu_main
+mipmap gbtn
+string app_name
+style AppTheme_NoActionBar
+style Theme_Activity_GuideBar
+style Toolbar_MyStyle
+style Toolbar_TitleText

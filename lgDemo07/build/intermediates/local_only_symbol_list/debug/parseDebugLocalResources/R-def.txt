@@ -1,0 +1,31 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color colorAccent
+color colorPrimary
+color colorPrimaryDark
+color contactsemail
+color contactsname
+color contactsphone
+color white
+id bt_add
+id bt_brw
+id contactsemail
+id contactsname
+id contactsphone
+id ed_em
+id ed_nm
+id ed_ph
+id lv
+layout activity_main
+layout activity_result
+layout listitem
+string app_name
+string btn_add
+string btn_brw
+string dialog_ok
+string dialog_title
+string hint_em
+string hint_nm
+string hint_ph
+style Theme.LgDemo07

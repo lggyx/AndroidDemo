@@ -27,4 +27,7 @@ include(":lgDemo01")
 include(":lgDemo02")
 include(":lgDemo03")
 include(":lgDemo04")
+include(":lgDemo05")
+include(":lgDemo06")
+include(":lgDemo07")
  

@@ -1,0 +1,11 @@
+R_DEF: Internal format may change without notice
+local
+color colorAccent
+color colorPrimary
+color colorPrimaryDark
+color white
+id event_label
+id touch_area
+layout activity_main
+string app_name
+style Theme.LgDemo05

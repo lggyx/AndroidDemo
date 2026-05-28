@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lgDemo07</string>
+    <string name="hint_nm">请输入姓名</string>
+    <string name="hint_ph">请输入电话</string>
+    <string name="hint_em">请输入email</string>
+    <string name="btn_add">添加联系人信息</string>
+    <string name="btn_brw">查看联系人</string>
+    <string name="dialog_title">联系人列表</string>
+    <string name="dialog_ok">确定</string>
+</resources>

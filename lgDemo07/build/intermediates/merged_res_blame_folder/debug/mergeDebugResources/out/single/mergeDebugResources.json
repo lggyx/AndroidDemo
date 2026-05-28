@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.lggyx.lgdemo07.lgDemo07-debug-32:/layout_activity_result.xml.flat",
+        "source": "com.lggyx.lgdemo07.lgDemo07-main-34:/layout/activity_result.xml"
+    },
+    {
+        "merged": "com.lggyx.lgdemo07.lgDemo07-debug-32:/layout_activity_main.xml.flat",
+        "source": "com.lggyx.lgdemo07.lgDemo07-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.lggyx.lgdemo07.lgDemo07-debug-32:/layout_listitem.xml.flat",
+        "source": "com.lggyx.lgdemo07.lgDemo07-main-34:/layout/listitem.xml"
+    }
+]

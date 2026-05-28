@@ -2,10 +2,6 @@
 <project version="4">
   <component name="deploymentTargetSelector">
     <selectionStates>
-      <SelectionState runConfigName="app">
-        <option name="selectionMode" value="DROPDOWN" />
-        <DialogSelection />
-      </SelectionState>
       <SelectionState runConfigName="lgDemo02">
         <option name="selectionMode" value="DROPDOWN" />
         <DialogSelection />
@@ -19,6 +15,18 @@
         <DialogSelection />
       </SelectionState>
       <SelectionState runConfigName="lgDemo04">
+        <option name="selectionMode" value="DROPDOWN" />
+        <DialogSelection />
+      </SelectionState>
+      <SelectionState runConfigName="lgDemo05">
+        <option name="selectionMode" value="DROPDOWN" />
+        <DialogSelection />
+      </SelectionState>
+      <SelectionState runConfigName="lgDemo06">
+        <option name="selectionMode" value="DROPDOWN" />
+        <DialogSelection />
+      </SelectionState>
+      <SelectionState runConfigName="lgDemo07">
         <option name="selectionMode" value="DROPDOWN" />
         <DialogSelection />
       </SelectionState>

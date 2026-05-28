@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.lggyx.lgdemo06.lgDemo06-debug-32:/drawable_icon_sign2.xml.flat",
+        "source": "com.lggyx.lgdemo06.lgDemo06-main-34:/drawable/icon_sign2.xml"
+    },
+    {
+        "merged": "C:\\Users\\15853\\.gradle\\daemon\\9.4.1\\com.lggyx.lgdemo06.lgDemo06-debug-32:\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\15853\\.gradle\\daemon\\9.4.1\\com.lggyx.lgdemo06.lgDemo06-main-34:\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "com.lggyx.lgdemo06.lgDemo06-debug-32:/drawable_icon_setting2.xml.flat",
+        "source": "com.lggyx.lgdemo06.lgDemo06-main-34:/drawable/icon_setting2.xml"
+    },
+    {
+        "merged": "com.lggyx.lgdemo06.lgDemo06-debug-32:/drawable_icon_notifications2.xml.flat",
+        "source": "com.lggyx.lgdemo06.lgDemo06-main-34:/drawable/icon_notifications2.xml"
+    },
+    {
+        "merged": "C:\\Users\\15853\\.gradle\\daemon\\9.4.1\\com.lggyx.lgdemo06.lgDemo06-debug-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\15853\\.gradle\\daemon\\9.4.1\\com.lggyx.lgdemo06.lgDemo06-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.lggyx.lgdemo06.lgDemo06-debug-32:/mipmap-anydpi-v26_gbtn.xml.flat",
+        "source": "com.lggyx.lgdemo06.lgDemo06-main-34:/mipmap-anydpi-v26/gbtn.xml"
+    }
+]

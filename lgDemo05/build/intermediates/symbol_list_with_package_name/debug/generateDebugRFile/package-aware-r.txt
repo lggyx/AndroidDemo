@@ -1,0 +1,10 @@
+com.lggyx.lgdemo05
+color colorAccent
+color colorPrimary
+color colorPrimaryDark
+color white
+id event_label
+id touch_area
+layout activity_main
+string app_name
+style Theme_LgDemo05

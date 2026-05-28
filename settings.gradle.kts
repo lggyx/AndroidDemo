@@ -23,5 +23,6 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "lgDemo"
-include(":app")
+include(":lgDemo01")
+include(":lgDemo02")
  

@@ -1,0 +1,25 @@
+R_DEF: Internal format may change without notice
+local
+color btnbg
+color btntxt
+color colorAccent
+color colorPrimary
+color colorPrimaryDark
+color text
+drawable background
+id btnLogin
+id btnReg
+id etPwd
+id etUid
+layout activity_main
+string MYMU
+string app_name
+string btnLogin
+string btnReg
+string tvPwd
+string tvUid
+style AppTheme
+style button
+style edit
+style text
+style title

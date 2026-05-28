@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.lggyx.lgdemo04.lgDemo04-debug-32:/layout_activity_main.xml.flat",
+        "source": "com.lggyx.lgdemo04.lgDemo04-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.lggyx.lgdemo04.lgDemo04-debug-32:/drawable_background.png.flat",
+        "source": "com.lggyx.lgdemo04.lgDemo04-main-34:/drawable/background.png"
+    }
+]

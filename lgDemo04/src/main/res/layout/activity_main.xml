@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/background"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/MYMU"
+        style="@style/title"
+        android:layout_marginTop="30dp" />
+
+    <!-- 账号行 -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="20dp">
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="@string/tvUid"
+            style="@style/text"
+            android:gravity="center" />
+
+        <EditText
+            android:id="@+id/etUid"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:inputType="text"
+            style="@style/edit" />
+    </LinearLayout>
+
+    <!-- 密码行 -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="20dp">
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="@string/tvPwd"
+            style="@style/text"
+            android:gravity="center" />
+
+        <EditText
+            android:id="@+id/etPwd"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:inputType="textPassword"
+            style="@style/edit" />
+    </LinearLayout>
+
+    <!-- 按钮行 -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="end"
+        android:layout_marginTop="30dp"
+        android:padding="20dp">
+
+        <Button
+            android:id="@+id/btnReg"
+            android:layout_width="70dp"
+            android:layout_height="wrap_content"
+            android:text="@string/btnReg"
+            style="@style/button"
+            android:layout_marginEnd="20dp" />
+
+        <Button
+            android:id="@+id/btnLogin"
+            android:layout_width="70dp"
+            android:layout_height="wrap_content"
+            android:text="@string/btnLogin"
+            style="@style/button" />
+    </LinearLayout>
+
+</LinearLayout>

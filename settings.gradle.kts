@@ -25,4 +25,5 @@ dependencyResolutionManagement {
 rootProject.name = "lgDemo"
 include(":lgDemo01")
 include(":lgDemo02")
+include(":lgDemo03")
  

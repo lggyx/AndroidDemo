@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\15853\\.gradle\\daemon\\9.4.1\\com.lggyx.lgdemo03.lgDemo03-debug-32:\\drawable_ic_sqrt.xml.flat",
+        "source": "C:\\Users\\15853\\.gradle\\daemon\\9.4.1\\com.lggyx.lgdemo03.lgDemo03-main-34:\\drawable\\ic_sqrt.xml"
+    },
+    {
+        "merged": "com.lggyx.lgdemo03.lgDemo03-debug-32:/layout_activity_main.xml.flat",
+        "source": "com.lggyx.lgdemo03.lgDemo03-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\15853\\.gradle\\daemon\\9.4.1\\com.lggyx.lgdemo03.lgDemo03-debug-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\15853\\.gradle\\daemon\\9.4.1\\com.lggyx.lgdemo03.lgDemo03-main-34:\\layout\\activity_main.xml"
+    }
+]

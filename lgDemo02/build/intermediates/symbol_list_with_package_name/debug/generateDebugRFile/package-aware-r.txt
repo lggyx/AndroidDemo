@@ -1,0 +1,13 @@
+com.lggyx.lgdemo02
+color black
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+id button1
+id button2
+layout activity_main
+layout subactivity
+string app_name
+style Theme_LgDemo02

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.lggyx.lgdemo08.lgDemo08-debug-32:/drawable_bc.xml.flat",
+        "source": "com.lggyx.lgdemo08.lgDemo08-main-34:/drawable/bc.xml"
+    },
+    {
+        "merged": "com.lggyx.lgdemo08.lgDemo08-debug-32:/layout_activity_main.xml.flat",
+        "source": "com.lggyx.lgdemo08.lgDemo08-main-34:/layout/activity_main.xml"
+    }
+]

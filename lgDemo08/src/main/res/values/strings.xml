@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lgDemo08</string>
+    <string name="btn_send">发送无序广播</string>
+    <string name="btn_orderedsend">发送有序广播</string>
+    <string name="channel_name">广播</string>
+    <string name="notification_title1">第1个接收器,接收到广播消息。</string>
+</resources>

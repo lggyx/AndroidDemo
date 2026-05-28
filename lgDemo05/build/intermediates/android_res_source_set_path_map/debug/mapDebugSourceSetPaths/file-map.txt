@@ -1,8 +1,0 @@
-com.lggyx.lgdemo05.lgDemo05-pngs-0 C:\Users\15853\AndroidStudioProjects\lgDemo\lgDemo05\build\generated\res\pngs\debug
-com.lggyx.lgdemo05.lgDemo05-updated_navigation_xml-1 C:\Users\15853\AndroidStudioProjects\lgDemo\lgDemo05\build\generated\updated_navigation_xml\debug
-com.lggyx.lgdemo05.lgDemo05-packageDebugResources-2 C:\Users\15853\AndroidStudioProjects\lgDemo\lgDemo05\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.lggyx.lgdemo05.lgDemo05-packageDebugResources-3 C:\Users\15853\AndroidStudioProjects\lgDemo\lgDemo05\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.lggyx.lgdemo05.lgDemo05-debug-4 C:\Users\15853\AndroidStudioProjects\lgDemo\lgDemo05\build\intermediates\merged_res\debug\mergeDebugResources
-com.lggyx.lgdemo05.lgDemo05-debug-5 C:\Users\15853\AndroidStudioProjects\lgDemo\lgDemo05\src\debug\res
-com.lggyx.lgdemo05.lgDemo05-main-6 C:\Users\15853\AndroidStudioProjects\lgDemo\lgDemo05\src\main\res
-gradleHome-0 C:\Users\15853\.gradle

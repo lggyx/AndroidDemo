@@ -30,4 +30,5 @@ include(":lgDemo04")
 include(":lgDemo05")
 include(":lgDemo06")
 include(":lgDemo07")
+include(":lgDemo08")
  

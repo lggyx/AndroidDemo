@@ -1,0 +1,21 @@
+com.lggyx.lgdemo08
+color black
+color colorAccent
+color colorPrimary
+color colorPrimaryDark
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable bc
+id btn_orderedsend
+id btn_send
+layout activity_main
+string app_name
+string btn_orderedsend
+string btn_send
+string channel_name
+string notification_title1
+style Theme_LgDemo08

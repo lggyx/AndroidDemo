@@ -73,23 +73,24 @@ lgDemo/
 
 ---
 
-## lgDemo04 — "我的音乐盒"登录界面
+## lgDemo04 — "我的音乐盒"注册登录 + 首页
 
 **技术要点：**
-- 垂直 LinearLayout，背景图
-- 标题"我的音乐盒"（32sp，加粗，#f37301）
-- 账号/密码输入行（水平 LinearLayout + EditText）
-- 底部"注册"和"登录"按钮（右侧对齐）
-- 样式统一：`@style/title` / `@style/text` / `@style/edit` / `@style/button`
-- `android:windowNoTitle=true` 隐藏标题栏
+- `MainActivity`：注册登录页（LinearLayout + EditText + Button）
+- `HomeActivity`：登录后首页，显示欢迎信息 + 退出按钮
+- SharedPreferences 持久化存储用户名密码（`user.xml`）
+- 注册：用户名密码非空校验 → `sp.edit().putString()` 存储
+- 登录：比对存储的 uid/pwd，成功跳转首页
+- 自动登录：已登录状态重新打开应用直接进入首页
+- 退出登录：清除 SharedPreferences 返回登录页
 
 **关键代码：**
-- [MainActivity.java](lgDemo04/src/main/java/com/lggyx/lgdemo04/MainActivity.java)
+- [MainActivity.java](lgDemo04/src/main/java/com/lggyx/lgdemo04/MainActivity.java) — register() / login() / goHome() 逻辑
+- [HomeActivity.java](lgDemo04/src/main/java/com/lggyx/lgdemo04/HomeActivity.java) — 首页欢迎 + 退出
 - [activity_main.xml](lgDemo04/src/main/res/layout/activity_main.xml) — 登录界面布局
-- [styles.xml](lgDemo04/src/main/res/values/styles.xml) — 样式定义（title / text / edit / button）
-- [strings.xml](lgDemo04/src/main/res/values/strings.xml) — 文本资源
+- [activity_home.xml](lgDemo04/src/main/res/layout/activity_home.xml) — 首页布局
 
-**涉及概念：** styles.xml 样式定义、LinearLayout 嵌套、EditText inputType、gravity / layout_gravity
+**涉及概念：** SharedPreferences、Intent 跳转、Activity finish()、Toast 提示、登录状态持久化
 
 ---
 
